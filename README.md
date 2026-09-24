@@ -46,7 +46,7 @@ Für den Zero Club in Gallneukirchen gestaltete ich grafische Inhalte und insbes
 Für das Restaurant, Café & Bar Esszimmer in Lichtenberg erstellte ich ebenfalls grafische Inhalte und Flyer, abgestimmt auf den jeweiligen Auftritt und Kommunikationszweck.
 
 <p align="left">
-  <img src="Werke/Esszimmer Burger.jpg" width="30%">
+  <img src="Werke/Esszimmer Burger.png" width="30%">
    &nbsp;&nbsp;
   <img src="Werke/Esszimmer Schnitzel Samstag.png" width="30%">
    &nbsp;&nbsp;
