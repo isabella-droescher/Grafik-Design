@@ -3,7 +3,7 @@
 Dieses Repository präsentiert eine Auswahl meiner Arbeiten aus den Bereichen Grafikdesign, Medienproduktion und Social Media. Im Mittelpunkt stehen von mir eigenständig entwickelte visuelle Inhalte, insbesondere Flyer und digitale Werbemittel.
 
 ## Referenzen & Projekte
-### La Vie Diskothek – Handenberg | 2023
+### La Vie Diskothek – Handenberg
 
 Für die La Vie Diskothek in Handenberg übernahm ich die Verwaltung der Social-Media-Kanäle und produzierte eigenständig digitale Inhalte. Dazu gehörten die grafische Gestaltung und Aufbereitung von Content für die Online-Kommunikation.
 
@@ -15,7 +15,7 @@ Für die La Vie Diskothek in Handenberg übernahm ich die Verwaltung der Social-
   <img src="Werke/LaVie Maskenball.jpg" width="30%">
 </p>
 
-### James Bar – St. Valentin | 2024
+### James Bar – St. Valentin
 
 Bei der James Bar in St. Valentin war ich für die Betreuung der Social-Media-Kanäle sowie die selbstständige Produktion digitaler Inhalte verantwortlich.
 
